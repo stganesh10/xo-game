@@ -6,16 +6,20 @@
     
 
 }
+#background{
+    background-image: url(wallpaper.jpg);
+    width: 100%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
 #logo{
     width: 100px;
 }
 body{
     color: white;
     height: 100vh;
-    background-image: url(wallpaper.jpg);
-    background-size: 100%;
-    background-repeat: no-repeat;
-    background-position: center;
+    
 }
 
 header{
